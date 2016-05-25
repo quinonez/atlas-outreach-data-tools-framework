@@ -1,0 +1,27 @@
+2016-05-20 - Felix Socher <Felix.Socher@cern.ch>
+    - removed yaml support, configuration files are now python dicts
+
+2016-05-12 - Felix Socher <Felix.Socher@cern.ch>
+    - beta tested example analyses
+    - samples were redone, infofile.yaml was adjusted accordingly
+
+2016-01-25 - Felix Socher <Felix.Socher@cern.ch>
+    - pulled Jakob's Analysis into own code
+    - made git repo here
+    
+2015-09-10 - Felix Socher <Felix.Socher@cern.ch>
+    - added arrays for histograms
+    - added Naming Scheme for analyses
+
+2015-09-05 - Felix Socher <Felix.Socher@cern.ch>
+    - updated samples with slimmed trees and trimmed statistics (see proposal)
+    - numerous features available now:
+        - parallel processing
+        - processing just a fraction of the samples
+        - event count output
+
+2015-08-13 - Felix Socher <Felix.Socher@cern.ch>
+    - created ChangeLog
+    - began rewrite to host analysis code for outreach dataset
+   
+
